@@ -1,0 +1,55 @@
+
+.container{
+ 	width: 800px; height: 750px; background-color: #3F4652; margin: 0 auto; font-family: sans-serif;
+}
+
+.scope{
+	width: 800px; height: 200px; color: green; text-align: left;
+}
+.pics{
+	width: 200px; height: 200px; float: left;
+}
+
+.summary{
+	width: 800px; height: 100px; color: white;
+}
+
+.biodata{
+	width: 200px; height: 100px; float: left; 
+}
+
+.green{
+	color: green;
+}
+
+.white{
+	color: white;
+}
+
+.style{
+	list-style-type: square; color: white;
+}
+
+.format{
+	width: 200px; height: 100px;  float: right; color: white;
+}
+
+.design{
+	color: green;
+}
+
+.details{
+	color: green;
+}
+
+
+.footer{
+	  position: relative; 
+	  top: 10%; 
+	  width: 40%;
+	  left: 25%;
+	  height: 25%;
+	  /*border: thin groove red;	*/
+	  margin-right: 100px;
+	 float: left;
+}
